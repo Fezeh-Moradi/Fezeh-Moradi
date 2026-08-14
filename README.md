@@ -9,7 +9,7 @@ I've worked with IoT systems using **MQTT**, **ESP32**, and **ESP8266** boards.
 
 ### Some of My Work
 
-**[Smart Home API](https://github.com/Fezeh-Moradi/fastapi-smart-home-api)**  
+**[Smart Home API](https://github.com/Fezeh-Moradi/fastapi-smart-home-api)**
 A backend project for managing users and smart devices, including authentication, access control, testing, and CI/CD.
 
 ---
