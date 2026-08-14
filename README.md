@@ -1,75 +1,47 @@
 # Hi, I'm Faezeh Moradi 👋
 
-**Backend Developer** focused on building clean, secure, and well-tested RESTful APIs with **Python** and **FastAPI**.
+**Backend Developer** with experience in building scalable systems, APIs, and IoT solutions.
 
-I enjoy working with asynchronous systems, authentication, database design, and writing high-quality tests.
+I work primarily with **Python** and **JavaScript**, and I also have hands-on experience with **Next.js**.  
+I've worked with IoT systems using **MQTT**, **ESP32**, and **ESP8266** boards.
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Some of My Work
 
 **[Smart Home API](https://github.com/Fezeh-Moradi/fastapi-smart-home-api)**  
-
-A complete RESTful backend for a Smart Home system built with **FastAPI** + **MongoDB**.
-
-**Key highlights:**
-
-- JWT Authentication + Password hashing (bcrypt)
-
-- User & Device management with ownership-based access control
-
-- Filtering, pagination, and sorting
-
-- Layered architecture (Routers → Services → Database)
-
-- **86 tests** with **~98% coverage**
-
-- Unit + Integration tests
-
-- Automated CI with GitHub Actions + MongoDB service
-
-- Full Swagger documentation
+A backend project for managing users and smart devices, including authentication, access control, testing, and CI/CD.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies I Work With
 
-**Languages & Frameworks**  
+**Backend & Languages**  
+`Python` · `JavaScript` · `Node.js`
 
-`Python` · `FastAPI` · `Pydantic`
+**Frameworks & Tools**  
+`Next.js` · `MongoDB` · `MQTT`
 
-**Database**  
-
-`MongoDB` · `Motor` (Async)
-
-**Auth & Security**  
-
-`JWT` · `python-jose` · `Passlib` · `bcrypt`
-
-**Testing & CI/CD**  
-
-`Pytest` · `pytest-asyncio` · `pytest-cov` · `GitHub Actions`
+**IoT**  
+`ESP32` · `ESP8266` · `MQTT Protocols`
 
 **Other**  
-
-`Uvicorn` · `Logging` · `Middleware`
-
----
-
-### 📌 Currently Working On
-
-- Improving and expanding the Smart Home API (RBAC, Docker, rate limiting...)
-
-- Building more production-ready backend projects
+`Git` · `Testing` · `CI/CD`
 
 ---
 
-### 📫 Connect with me
+### 📌 Currently Exploring
+- Backend architecture & system design
+- IoT integrations
+- Building practical and maintainable projects
 
-Feel free to reach out if you'd like to collaborate or discuss backend development!
+---
 
+### 📫 Get in Touch
 
-
-in/faezeh-moradi-91a15823b
-
+Feel free to reach out if you'd like to collaborate or just chat about backend & IoT!
 fezehmoradi5@gmail.com
+in/faezeh-moradi-91a15823b
+- LinkedIn: 
+- Email: 
+-->
