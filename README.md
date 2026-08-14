@@ -1,4 +1,4 @@
-# Hi, I'm Faezeh Moradi 👋
+# Hi, I'm Faezeh Moradi
 
 **Backend Developer** with experience in building scalable systems, APIs, and IoT solutions.
 
@@ -7,14 +7,14 @@ I've worked with IoT systems using **MQTT**, **ESP32**, and **ESP8266** boards.
 
 ---
 
-### 🚀 Some of My Work
+### Some of My Work
 
 **[Smart Home API](https://github.com/Fezeh-Moradi/fastapi-smart-home-api)**  
 A backend project for managing users and smart devices, including authentication, access control, testing, and CI/CD.
 
 ---
 
-### 🛠️ Technologies I Work With
+### Technologies I Work With
 
 **Backend & Languages**  
 `Python` · `JavaScript` · `Node.js`
@@ -23,25 +23,24 @@ A backend project for managing users and smart devices, including authentication
 `Next.js` · `MongoDB` · `MQTT`
 
 **IoT**  
-`ESP32` · `ESP8266` · `MQTT Protocols`
+`ESP32` · `ESP8266` · `MQTT`
 
 **Other**  
 `Git` · `Testing` · `CI/CD`
 
 ---
 
-### 📌 Currently Exploring
-- Backend architecture & system design
+### Currently Exploring
+
+- Backend architecture and system design
 - IoT integrations
 - Building practical and maintainable projects
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
-Feel free to reach out if you'd like to collaborate or just chat about backend & IoT!
-fezehmoradi5@gmail.com
-in/faezeh-moradi-91a15823b
-- LinkedIn: 
-- Email: 
--->
+Feel free to reach out if you'd like to collaborate or just chat about backend and IoT.
+
+- Email: fezehmoradi5@gmail.com  
+- LinkedIn: [linkedin.com/in/faezeh-moradi-91a15823b](https://www.linkedin.com/in/faezeh-moradi-91a15823b)
