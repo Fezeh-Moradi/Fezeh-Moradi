@@ -30,7 +30,8 @@ A backend project for managing users and smart devices, including authentication
 
 ---
 
-<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezeh-Moradi&layout=compact" ></image-card>
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezeh-Moradi" ></image-card><image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezeh-Moradi" ></image-card>
+
 ---
 
 ### Currently Exploring
