@@ -30,9 +30,7 @@ A backend project for managing users and smart devices, including authentication
 
 ---
 
-### Languages
-
-![Top Langs](https://stats.demolab.com/api/top-langs/?username=Fezeh-Moradi&layout=compact)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Fezeh-Moradi&layout=compact)
 
 ---
 
