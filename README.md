@@ -30,10 +30,6 @@ A backend project for managing users and smart devices, including authentication
 
 ---
 
-![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Fezeh-Moradi&layout=compact)
-
----
-
 ### Currently Exploring
 
 - Backend architecture and system design
